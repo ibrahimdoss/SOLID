@@ -1,2 +1,2 @@
 # SOLID
- SOLID prensipleri
+ Example of SOLID principles
