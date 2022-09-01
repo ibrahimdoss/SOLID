@@ -1,0 +1,13 @@
+package Functional;
+
+public enum Notes {
+	
+	Fonksiyonel(Functional)=> Tek, çok iyi tanımlanmış ve olabildiğince küçük bir işe ya da sorumluluğa
+	yönelik olarak bir araya getirilmiş yapılardır.
+		*En iyi birliktelik durumudur.
+		
+	Yazılım geliştirme sürecinde detaylar arttıkça diğer birliktelik türlerinde yapılar gittikçe
+	büyüme eğiliminde olurken fonksiyonel birliktelikte bölüp parçalama yoluyla odağın korunmasına
+	çalışılır.
+
+}

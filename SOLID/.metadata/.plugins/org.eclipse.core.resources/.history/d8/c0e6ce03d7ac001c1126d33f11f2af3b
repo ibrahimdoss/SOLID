@@ -1,0 +1,6 @@
+package lspExampleTwo;
+
+public enum CalculatorNotes {
+
+	Calculator iki tam sayıyı toplama hizmeti vermektedir.
+}

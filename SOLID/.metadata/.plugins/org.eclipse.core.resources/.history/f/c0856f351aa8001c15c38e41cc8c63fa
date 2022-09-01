@@ -1,0 +1,5 @@
+package SRPClass.example;
+
+public interface Modem {
+
+}

@@ -1,0 +1,7 @@
+package lspExampleThree;
+
+public enum TaxiNotes {
+	
+	Alt tipler, override ettikleri davranışlarda, üst tipin sağladığından daha özel dönüş tipleri
+	sağlayabilir.
+}

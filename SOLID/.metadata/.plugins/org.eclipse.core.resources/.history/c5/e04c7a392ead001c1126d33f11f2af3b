@@ -1,0 +1,7 @@
+package copyExampleSolution;
+
+public enum SolutionNotes {
+
+	Bir öncekinde somut yapılara olan bağımlılıklar tersine çevrilerek tamamen soyut yapılara dayanacak
+	hale getirilmiştir.
+}

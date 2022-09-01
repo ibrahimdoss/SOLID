@@ -1,0 +1,5 @@
+package ocpExampleTwo;
+
+public enum EmployeeNotes {
+
+}

@@ -1,0 +1,5 @@
+package lspExample;
+
+public enum SquareNotes {
+
+}

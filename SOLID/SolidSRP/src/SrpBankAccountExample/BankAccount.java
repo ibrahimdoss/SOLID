@@ -1,0 +1,32 @@
+package SrpBankAccountExample;
+
+public class BankAccount {
+	
+//	BankAccount soyutlamasının kendisiyle ilgili sorumluluklar, tekrar kullanılabilecek
+//	diğerlerinden ayrılmalıdır.
+//	
+//	Diğer sorumluluklar başka yerlerde soyutlanmalıdır.
+	
+	/*
+	 * getHistory() karmaşıklığına göre farklı bir yere alınabilir.
+	 * 
+	 * print() ve save() pek çok entity sınıfını ilgilendirmektedir.
+	 * 
+	 * save() bir kalıcılık (persistance) metodu olduğundan ilgili diğer metotlarla
+	 * birlikte kalıcılık yapısında düşünülmelidir.
+	 * 
+	 * ÇÖZÜMÜ "BankAccountResolve paketi içindedir."
+	 */
+	
+	public Date getCreationDate() {}
+	public double getBalance() {}
+	public double getInterestRate() {}
+	public Customer getOwner() {}
+	public void deposit(double amount) {}
+	public void withdraw(double amount) {}
+	public List<Transaction> getHistory(Date from, Date to) {}
+	public void print() {}
+	public void save() {}
+
+
+}

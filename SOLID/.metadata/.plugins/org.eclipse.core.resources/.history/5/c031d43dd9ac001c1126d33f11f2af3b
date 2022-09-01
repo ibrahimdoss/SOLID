@@ -1,0 +1,7 @@
+package lspExample;
+
+public enum SquareNotes {
+
+	Square-Rectangle ilişkisinde Rectangle'ın öne sürmediği bir durum,
+	kısa ve uzun kenarın birbirine eşit olması Square tarafından ön şart olarak öne sürülmektedir.
+}

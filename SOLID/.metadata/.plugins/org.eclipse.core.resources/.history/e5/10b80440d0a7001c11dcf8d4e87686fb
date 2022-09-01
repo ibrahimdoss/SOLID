@@ -1,0 +1,6 @@
+package metots.login;
+
+public enum LoginMetotNotes {
+	
+	login() metodunda şu işlerin hepsi metotta halledilmektedir.
+}

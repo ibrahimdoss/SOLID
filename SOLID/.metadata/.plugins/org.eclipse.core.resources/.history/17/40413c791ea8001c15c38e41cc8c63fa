@@ -1,0 +1,5 @@
+package BankAccountResolve;
+
+public interface Dao {
+
+}

@@ -1,0 +1,16 @@
+package SrpBankAccountExample;
+
+public class BankAccount {
+	
+	public Date getCreationDate() {}
+	public double getBalance() {}
+	public double getInterestRate() {}
+	public Customer getOwner() {}
+	public void deposit(double amount) {}
+	public void withdraw(double amount) {}
+	public List<Transaction> getHistory(Date from, Date to) {}
+	public void print() {}
+	public void save() {}
+
+
+}

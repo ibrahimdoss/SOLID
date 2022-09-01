@@ -1,0 +1,10 @@
+package copyExampleSolution;
+
+public enum SolutionNotes {
+
+	Bir öncekinde somut yapılara olan bağımlılıklar tersine çevrilerek tamamen soyut yapılara dayanacak
+	hale getirilmiştir.
+	
+	Bu durumda interface'lerde değişiklik yapılmadığı müddetçe kötü tasarımın sonucu olan 
+	üç durumu görme ihtimali azalır.
+}

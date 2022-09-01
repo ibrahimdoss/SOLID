@@ -1,0 +1,14 @@
+package SrpClassExampleTwo;
+
+public enum Directory {
+	
+//	Directory hem dizini temsil eden bir torba rolüne sahiptir hem de file gibi bir saklama
+//	StorageElement yapısıdır.
+//	
+//	***Composite kalıbı bu türden nesneleri kullanır.
+	
+//	Bu durumlarda dikkat edilecek nokta, üst tipi sayısının 3-5 gibi makul seviyede kalması
+//	ve yetkinlikleri bir araya toplayan(Aggregate) sınıfın anlamlı bir role sahip olmasıdır.
+//	
+//	Benzer şekilde sınıftaki toplam metot sayısının çok yükselmemesi de önemlidir.
+}

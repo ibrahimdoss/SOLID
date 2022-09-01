@@ -1,0 +1,5 @@
+package MailExample;
+
+public class EmailService {
+
+}

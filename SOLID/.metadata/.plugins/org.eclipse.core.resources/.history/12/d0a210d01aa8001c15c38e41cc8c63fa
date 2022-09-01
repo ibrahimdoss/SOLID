@@ -1,0 +1,17 @@
+package SrpClassExample;
+
+public interface Modem {
+	
+	Buradaki Modem interface'nin  iki sorumluluğu vardır.
+		Dolayısıyla modem interface bölünmeli ve ancak birden fazla interface'in gerçekleştirmesi
+		olarak ifadee edilmelidir.
+	
+	public void dial(String pno);
+
+	public void hangup();
+
+	public void send(char c);
+
+	public char recv();
+
+}

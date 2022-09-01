@@ -1,0 +1,5 @@
+package copyExampleProblem;
+
+public enum ProblemNotes {
+
+}

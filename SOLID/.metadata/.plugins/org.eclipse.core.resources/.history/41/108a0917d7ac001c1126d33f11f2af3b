@@ -1,0 +1,9 @@
+package lspExampleTwo;
+
+public enum CalculatorNotes {
+
+	Calculator iki tam sayıyı toplama hizmeti vermektedir.
+	
+	PositiveCalculator ise iki pozitif tam sayıyı toplama hizmeti vermektedir ama negatif argüman
+	geçilmesi durumunda NegativeArgumentException fırlatmak istemekte.
+}

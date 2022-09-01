@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SolidDIP/src/copyExampleProblem/CD.png&apos; to &apos;problem.png&apos;" description="Rename resource &apos;CD.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/copyExampleProblem/CD.png" name="problem.png" stamp="1648314510492" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SolidDIP/src/copyExampleSolution/CD.png&apos; to &apos;solution.png&apos;" description="Rename resource &apos;CD.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/copyExampleSolution/CD.png" name="solution.png" stamp="1648317192478" updateReferences="true"/>
+</session>

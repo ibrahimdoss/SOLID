@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.source.tree.WhileLoopTree"/>
+    <fullyQualifiedTypeName name="statement.StatementThree"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="BankAccountResolve.TransactionService"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="resolveOcpExample.AccountAction"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package metots.login;
+
+public enum LoginMetotNotes {
+
+}

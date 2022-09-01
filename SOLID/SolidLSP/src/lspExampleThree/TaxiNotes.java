@@ -1,0 +1,10 @@
+package lspExampleThree;
+
+public enum TaxiNotes {
+	
+//	Alt tipler, override ettikleri davranışlarda, üst tipin sağladığından daha özel dönüş tipleri
+//	sağlayabilir.
+//	
+//	VipTaxi Taxi'nin sağladığı take() hizmeti için gerekli ön şartı kaldırırken service() sonucunda
+//	Service yerine daha özel bir VipService cevabı döndürmektedir.
+}

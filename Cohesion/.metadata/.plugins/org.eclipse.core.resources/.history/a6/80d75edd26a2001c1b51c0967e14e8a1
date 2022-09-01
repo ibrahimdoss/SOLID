@@ -1,0 +1,5 @@
+package CommunicationalAndInformational;
+
+public enum Notes {
+
+}

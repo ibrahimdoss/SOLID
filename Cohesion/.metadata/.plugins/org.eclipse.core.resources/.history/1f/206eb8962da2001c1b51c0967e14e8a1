@@ -1,0 +1,6 @@
+package MailExample;
+
+public enum EmailExampleNotes {
+	
+	
+}

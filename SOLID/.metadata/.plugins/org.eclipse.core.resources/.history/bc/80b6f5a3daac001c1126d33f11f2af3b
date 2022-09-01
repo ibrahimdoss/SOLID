@@ -1,0 +1,5 @@
+package lspExampleThree;
+
+public enum TaxiNotes {
+
+}

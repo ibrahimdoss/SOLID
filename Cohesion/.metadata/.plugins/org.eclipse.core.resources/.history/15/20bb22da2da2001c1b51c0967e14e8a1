@@ -1,0 +1,17 @@
+package Procedural;
+
+public enum Notes {
+	
+	/*
+	 * Prosedürel (Procedural ) => Yordamsal paradigmanın cohesion anlayışıdır. Bir
+	 * konu ile ilgili işlerin yukarıdan aşağıya doğru fonksiyonel olarak ayrılması
+	 * ve hepsinin bir sınıfta bir araya getirilmesi.
+	 * 
+	 * Example : dosya açmakla ilgili olan her şeyi yapan, dosya erişimini ve
+	 * gerekli belleği kontrol eden, dosyayı açan, editleyen ve kaydedip
+	 * ilgililerine email gönderen bir class
+	 * 
+	 * Bizim örneğimiz de ise maili kontrol ediyor, validate ediyor, ve gönderiyor
+	 * gibi prosedürel işlemlerin olduğu cohesion.
+	 */
+}

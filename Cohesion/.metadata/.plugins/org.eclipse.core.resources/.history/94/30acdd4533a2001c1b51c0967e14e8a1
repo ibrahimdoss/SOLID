@@ -1,0 +1,5 @@
+package CustomerExample;
+
+public enum CustomerExampleNotes {
+
+}

@@ -1,0 +1,11 @@
+package Sequential;
+
+public enum Notes {
+
+	Ardışıl ( Sequential) => Sınıf seviyesinde birinin çıktısının diğerini beslediği,
+	pipe şeklinde çalışan fonksiyonları bir araya getiren sınıflardır. Durumlarda bir araya
+	getirilen fonksiyonlar. Daha kötüsü tek bir fonksiyonun ardışıl işleri hallettiği durumdur.
+	
+	
+	
+}

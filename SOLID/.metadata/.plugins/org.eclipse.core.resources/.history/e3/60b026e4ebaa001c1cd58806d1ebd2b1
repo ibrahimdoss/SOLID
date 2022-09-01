@@ -1,0 +1,15 @@
+package ocpExample;
+
+public enum AccountNotes {
+	
+	changeBalance() metodu, kendisine geçilen String tipinde action verisinden dolayı değişime kapalı
+	değildir.
+	
+	Muhtemelen action bir başka sınıfın iç işleyişinin bir detayıdır.
+	
+	Dolayısıyla sadece veri olarak bu metoda geçilmesi, içerik bağımlılığıdır(content coupling) ve 
+	birlikte değişme problemi oluşturur.
+	
+	changeBalance() SRP olmadığı gibi OCP de değildir.
+
+}

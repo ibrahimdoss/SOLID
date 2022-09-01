@@ -1,0 +1,14 @@
+package copyExampleProblem;
+
+public enum ProblemNotes {
+	
+	Copy, Keyboard'dan okuyup Printer'a yazan bir kopyalama yapısıdır.
+		
+		Copy yukarı seviyeli bir iş yaparken Keyboard ve Printer detaydır.
+		
+	
+	Bu yapıda aşağı seviyeli iki yapı, Keyboard ve Printer, tekrar kullanılabilir durumdadır.
+	
+	Ama Copy için aynı şey söylenemez çünkü kötü tasarımın üç göstergesine de sahiptir.
+
+}

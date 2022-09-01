@@ -1,0 +1,20 @@
+package copyExampleProblem;
+
+public enum ProblemNotes {
+	
+	Copy, Keyboard'dan okuyup Printer'a yazan bir kopyalama yapısıdır.
+		
+		Copy yukarı seviyeli bir iş yaparken Keyboard ve Printer detaydır.
+		
+	
+	Bu yapıda aşağı seviyeli iki yapı, Keyboard ve Printer, tekrar kullanılabilir durumdadır.
+	
+	Ama Copy için aynı şey söylenemez çünkü kötü tasarımın üç göstergesine de sahiptir.
+	
+	Copy hem katıdır, Keyboard ve Printer nesneleri olmadan çalışamaz, hem de kırılgandır,
+	bu nesnelerdeki değişikliklerden etkilenme ihtimali yüksektir.
+	
+	Copy daima Keyboard ve Printer nesnelerine ihtiyaç duyar, başka nesnelerle çalışabilmesi için
+	sürekli değişmesi gerekir ki bu da OCP'ye aykırıdır.
+
+}

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\DesignPatternCourse\SOLID\.metadata\.plugins\org.eclipse.jdt.core
+135659371.index
+3056292872.index
+108276327.index
+249445760.index
+1083265891.index

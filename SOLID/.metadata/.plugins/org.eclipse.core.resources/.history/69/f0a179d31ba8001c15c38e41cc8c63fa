@@ -1,0 +1,9 @@
+package SrpClassExampleTwo;
+
+public enum Directory {
+	
+	Directory hem dizini temsil eden bir torba rolüne sahiptir hem de file gibi bir saklama
+	StorageElement yapısıdır.
+	
+	Composite kalıbı bu türden nesneleri kullanır.
+}

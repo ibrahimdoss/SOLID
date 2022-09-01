@@ -1,0 +1,25 @@
+package Coincidental;
+
+
+public class Utility {
+	
+	public boolean checkPosParamValues(Merchant merchant) {};
+	public void setBankMessage(String bankIndıcator, BankWSResponseCode responseCode) {}
+	
+	public String maskUrl(String url, Institution institution) {}
+	public String maskJsonCCNo(String data, Institution institution) {}
+	public String maskXmlData(String requestXml, Institution institution) {}
+	
+	public void setBankDao(BankDao bankDao) {}
+	public void setVPosDao(VirtualPosDao virtualPosDao) {}
+	public void setMessageDao(MessageDao messageDao) {}
+	
+}
+
+/*
+ * Gelişigüzel (Coincidental) bir araya getirilmiş ilgisiz yapılar
+ * 
+ * Nesne soyutlamasının eksik ya da hiç olmadığı durumlarda sık görülüyor.
+ * 
+ * Örnek olarak yukarıdaki gibi Utility sınıfları.
+ */
